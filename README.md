@@ -9,7 +9,7 @@
 ╰──────────────────────────────────────────────────────────╯
 ```
 
-> **Life is too short to build things you don't care about.**
+> **Life is too short, Build what matters. Ignore the noise.**
 
 I'm **Fajar**, an indie developer who's still learning — not an expert, just someone who builds, breaks, and figures things out along the way.
 

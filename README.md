@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Fajar Azizi
 
-<!--
-**FajarAziziBM/FajarAziziBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **indie developer** who enjoys building things, experimenting with new technologies, and learning through projects.
 
-Here are some ideas to get you started:
+I'm still on my learning journey, so this profile is a collection of things I'm currently exploring, testing, and building. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,java" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,react,laravel,tailwind" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,docker,git,github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rabbitmq,graphql,fastapi,flask,solidity,linux" />
+  </a>
+</p>
+
+---
+
+## 📈 Learning Journey
+
+I don't want to present myself as someone who has mastered everything here.
+
+I'm simply **learning, building, making mistakes, fixing them, and trying again**.
+
+> **Keep learning, keep building. 🌱**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/FajarAziziBM">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+Thanks for visiting my profile! 👋

@@ -21,9 +21,6 @@ I build, break, learn, rebuild, and occasionally wonder why it worked in the fir
   <a href="mailto:fajaraziziboangmanalu97902@gmail.com">
     <img src="https://img.shields.io/badge/email-18181B?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/FajarAziziBM">
-    <img src="https://img.shields.io/badge/github-18181B?style=flat-square&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---

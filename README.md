@@ -8,25 +8,25 @@ I'm still on my learning journey, so this profile is a collection of things I'm 
 
 ## 🛠️ Technologies
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,java" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,react,laravel,tailwind" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,docker,git,github" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rabbitmq,graphql,fastapi,flask,solidity,linux" />
   </a>
@@ -46,7 +46,7 @@ I'm simply **learning, building, making mistakes, fixing them, and trying again*
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/FajarAziziBM">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>

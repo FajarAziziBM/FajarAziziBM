@@ -1,35 +1,39 @@
 # Fajar Azizi Boang Manalu
 
-`indie developer · learning · building · exploring`
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                            │
+│   F A J A R   A Z I Z I                                   │
+│   indie developer · learning · building · exploring       │
+│                                                            │
+╰──────────────────────────────────────────────────────────╯
+```
 
-> **Life is too short. Build what matters. Ignore the noise.**
+> **Life is too short to build things you don't care about.**
 
-I'm **Fajar** — an indie developer who's still figuring things out.
-
-I build, break, learn, rebuild, and occasionally wonder why it worked in the first place.
-
-### `what I use`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,express,tailwind,postgres,mysql,redis,docker,git,linux&perline=7" />
-</p>
-
-> Not everything here is mastered.
-> Some are tools I use. Some are things I'm still figuring out.
-
-### `connect`
-
-<p align="left">
-  <a href="mailto:fajaraziziboangmanalu97902@gmail.com">
-    <img src="https://img.shields.io/badge/email-18181B?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/FajarAziziBM">
-    <img src="https://img.shields.io/badge/github-18181B?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+I'm **Fajar**, an indie developer who's still learning — not an expert, just someone who builds, breaks, and figures things out along the way.
 
 ---
 
+## `stack`
+
 <p align="center">
-  <sub>keep learning · keep building · keep going</sub>
+  <img width="500" src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,express,tailwind,postgres,mysql,redis,docker,git,linux&perline=7" />
+</p>
+
+> Not a list of what I've mastered — just what I'm learning and curious about.
+
+---
+
+## `contact`
+
+```text
+email   → fajaraziziboangmanalu97902@gmail.com
+github  → github.com/FajarAziziBM
+```
+
+<p align="center">
+
+**keep learning. keep building. keep going.**
+
 </p>
